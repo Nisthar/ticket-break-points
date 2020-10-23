@@ -5,6 +5,8 @@ I use da defalt pretty chrome in dev tools
 
 I hope you can use this meow
 
+This for mtbcc btw
+
 (anonymous) (ticket.js:formatted:12505) \
 c (ticket.js:formatted:12248) \
 (anonymous) (ticket.js:formatted:12285) \
