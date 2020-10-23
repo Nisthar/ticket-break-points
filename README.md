@@ -1,7 +1,7 @@
 # ticket-break-points
 Here or da break points that I am using to reverse da ticket.js file for SUPREME
 
-I use da defalt pretty chrome in dev tools
+I use da default pretty chrome in dev tools
 
 I hope you can use this meow
 
